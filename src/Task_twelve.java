@@ -16,7 +16,7 @@ public class Task_twelve {
         String sms2 = scanner.nextLine();
         int len2 = sms2.length();
 
-// Сравнение длин строк s1 и s2.
+        // Сравнение длин строк sms и sms2.
         if (len > len2) {
             System.out.println("Результат " + sms);
         }
